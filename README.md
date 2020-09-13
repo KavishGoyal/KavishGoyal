@@ -16,7 +16,7 @@
 -->
 Here are some things,I am upto:
 
-* 🔭 I am currently working on building a NLP project.
+* 🔭 I am currently working on a NLP project.
 * 🌱 I am currently learning Natural Language Processing techniques like: Transformers, BERT.
 * 👯 I am looking to collaborate on exciting Data Science/ AI projects, Hackathons and to contribute to open source projects.
 * 🤔 I am looking for opportunity for full time job/internship in the AI/Data Science domain and to contribute towards the welfare of the Community.
