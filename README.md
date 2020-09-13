@@ -1,5 +1,5 @@
 [!Linkedin logo image link]()(https://www.linkedin.com/in/kavish-goyal-595583b2/) [Instagram]()(https://www.instagram.com/j_n__k_v_s_h/) [Kaggle]()(https://www.kaggle.com/kavishgoyal)  [Gmail]()(kavishjain111@gmail.com)
-[![HackerEarth](HackerEarth_logo.png)](https://www.kaggle.com/kavishgoyal) [Twitter](KavishGoyal/blob/master/download%20(1).jpeg)(https://twitter.com/kavishjain13)
+[![HackerEarth]()](https://www.kaggle.com/kavishgoyal) [Twitter](KavishGoyal/blob/master/download%20(1).jpeg)(https://twitter.com/kavishjain13)
 
 ### Hi there 👋
 
