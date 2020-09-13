@@ -1,6 +1,8 @@
-[![Linkedin logo image link](linkedin.png)](https://www.linkedin.com/in/kavish-goyal-595583b2/) [Instagram](https://www.instagram.com/j_n__k_v_s_h/) 
+[![Linkedin logo image link](linkedin.png)](https://www.linkedin.com/in/kavish-goyal-595583b2/)  
+[Instagram](https://www.instagram.com/j_n__k_v_s_h/) 
 [![Kaggle](kaggle.png)](https://www.kaggle.com/kavishgoyal)  [![Gmail](m1.png)](kavishjain111@gmail.com)
-[![Twitter](ttt.png)](https://twitter.com/kavishjain13) [HackerEarth](https://www.kaggle.com/kavishgoyal)
+[![Twitter](ttt.png)](https://twitter.com/kavishjain13)  
+[HackerEarth](https://www.kaggle.com/kavishgoyal)
 
 ### Hi there 👋
 
