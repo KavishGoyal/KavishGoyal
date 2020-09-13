@@ -14,8 +14,7 @@
 <!--
 **KavishGoyal/KavishGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
+Here are some things,I am upto:
 
 * 🔭 I am currently working on building a NLP project.
 * 🌱 I am currently learning Natural Language Processing techniques like: Transformers, BERT.
