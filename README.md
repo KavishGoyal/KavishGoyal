@@ -1,5 +1,5 @@
-[!linkedin logo image link](KavishGoyal/blob/master/linkedin-logo-icon-social-media-symbol-business-vector-21628742.jpg)(https://www.linkedin.com/in/kavish-goyal-595583b2/) [Instagram](KavishGoyal/blob/master/download.jpeg)(https://www.instagram.com/j_n__k_v_s_h/) [Kaggle](KavishGoyal/KavishGoyal/blob/master/download.png)(https://www.kaggle.com/kavishgoyal)  [Gmail](KavishGoyal/blob/master/download%20(1).png)(kavishjain111@gmail.com)
-[HackerEarth](KavishGoyal/blob/master/HackerEarth_logo.png)(https://www.kaggle.com/kavishgoyal) [Twitter](KavishGoyal/blob/master/download%20(1).jpeg)(https://twitter.com/kavishjain13)
+[!Linkedin logo image link]()(https://www.linkedin.com/in/kavish-goyal-595583b2/) [Instagram]()(https://www.instagram.com/j_n__k_v_s_h/) [Kaggle]()(https://www.kaggle.com/kavishgoyal)  [Gmail]()(kavishjain111@gmail.com)
+[![HackerEarth](HackerEarth_logo.png)](https://www.kaggle.com/kavishgoyal) [Twitter](KavishGoyal/blob/master/download%20(1).jpeg)(https://twitter.com/kavishjain13)
 
 ### Hi there 👋
 
