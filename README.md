@@ -1,4 +1,4 @@
-[linkedin][https://www.linkedin.com/in/kavish-goyal-595583b2/][Instagram][https://www.instagram.com/j_n__k_v_s_h/][Kaggle][https://www.kaggle.com/kavishgoyal] [Gmail][kavishjain111@gmail.com][HackerEarth][https://www.kaggle.com/kavishgoyal][twitter][https://twitter.com/kavishjain13]
+[linkedin](https://www.linkedin.com/in/kavish-goyal-595583b2/) [Instagram](https://www.instagram.com/j_n__k_v_s_h/) [Kaggle](https://www.kaggle.com/kavishgoyal)  [Gmail](kavishjain111@gmail.com) [HackerEarth](https://www.kaggle.com/kavishgoyal) [twitter](https://twitter.com/kavishjain13)
 
 ### Hi there 👋
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I am looking for opportunity for full time job/internship in the AI/Data Science domain and to contribute towards the welfare of the Community.
 - 🤔 I am looking for help in deploying my other NLP project using Docker container on any cloud platform.
 - 💬 Ask me about anything related to Data Science/AI/ML and how i created my own path to become ,what i am today.
-- 📫 How to reach me: Connect with me directly on Linkedin[https://www.linkedin.com/in/kavish-goyal-595583b2/][On GitHub][https://github.com/KavishGoyal/][Instagram][https://www.instagram.com/j_n__k_v_s_h/] or contact me directly on [Gmail][kavishjain111@gmail.com]
+- 📫 How to reach me: Connect with me directly on Linkedin[https://www.linkedin.com/in/kavish-goyal-595583b2/],On GitHub [https://github.com/KavishGoyal/] or    contact me directly on [Gmail][kavishjain111@gmail.com]
 - 😄 Pronouns: :blind:
 - ⚡ Fun fact: ... Our stories are not fairytales, these are real and Data Driven.
 -->
