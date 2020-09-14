@@ -24,5 +24,5 @@ Here are some things,I am upto:
 * 💬 Ask me about anything related to Data Science/AI/ML and how i created my own path to become ,what i am today.
 * 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/kavish-goyal-595583b2/),[Here](https://github.com/KavishGoyal/) or contact me directly on my [Gmail](kavishjain111@gmail.com).
 * 😄 Pronouns: :blind:
-* ⚡ Fun fact: ... Our stories are not fairytales, these are real and Data Driven.
+* ⚡ Fun fact: ... Our stories are not fairytales,but Data Driven.
 
