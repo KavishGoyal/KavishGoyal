@@ -4,17 +4,17 @@
 
 ### Hi there 👋
 
- I am Kavish Goyal.I have very keen interest in Machine Learning, Data Science, Computer Vision, Deep Learning and Natural Language Processing.
+ I am Kavish Goyal. I have very keen interest in Machine Learning, Data Science, Computer Vision, Deep Learning and Natural Language Processing.
  I have some good experience in building end to end Data Science/Machine Learning projects up to Deployment.
  I also have good knowledge of model deployment using Docker on cloud platforms like Heroku, AWS and Azure.
  I can also work on Big Data with Engines like Spark and Hadoop.
- Along with Python i am also good at query languages like SQL and Mongo DB.I can tell stories from data using Tableau and Power BI too.
+ Along with Python i am also good at query languages like SQL and Mongo DB. Moreover, I can tell stories from data using Tableau and Power BI too.
  I am always eager to learn new things.
  
 <!--
 **KavishGoyal/KavishGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some things,I am upto:
+Here are some things, I am upto:
 
 * 🔭 I am currently working on a NLP project.
 * 🌱 I am currently learning Natural Language Processing techniques like: Transformers, BERT.
